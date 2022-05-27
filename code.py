@@ -1,6 +1,6 @@
 from tkinter import *
 import random
-
+import math
 # price = input("What is the price? $")
 # percent = input("How much percentage off? ")
 
